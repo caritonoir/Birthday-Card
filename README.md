@@ -1,10 +1,5 @@
-# co76348debd65cb8b0b093b83
+This HTML & CSS job has been made in order to practice and complete the SCRIMBA free course for beginner developers. 
 
-Quick start:
-
-```
-$ npm install
-$ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
